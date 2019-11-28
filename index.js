@@ -204,6 +204,7 @@ module.exports = {
   readBitmapFileHeader,
   readDibHeader,
   dibHeader,
+  createBitmapBuffer,
   createBitmapFile,
   readBitmapFile,
   readColorTable
